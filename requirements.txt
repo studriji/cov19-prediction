@@ -81,7 +81,7 @@ pystan==2.19.1.1
 python-dateutil 
 pytz 
 #pywin32==301
-pywinpty==1.1.5
+pywinpty
 pyzmq 
 requests==2.26.0
 scipy 
