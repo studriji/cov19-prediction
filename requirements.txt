@@ -73,7 +73,7 @@ PyMeeus==0.5.11
 pyOpenSSL==21.0.0
 pyparsing==2.4.7
 PyQt5==5.12.3
-PyQt5_sip==4.19.18
+PyQt5_sip
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent==0.18.0
