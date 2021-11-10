@@ -80,7 +80,7 @@ pyrsistent==0.18.0
 pystan==2.19.1.1
 python-dateutil 
 pytz 
-pywin32==301
+#pywin32==301
 pywinpty==1.1.5
 pyzmq 
 requests==2.26.0
