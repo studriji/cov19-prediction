@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser stock_values.ipynb
+web: voila --port=$PORT --no-browser cov19.ipynb
