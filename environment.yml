@@ -2,5 +2,6 @@ name: cov19
 channels:
     - conda-forge
 dependencies:
+- anaconda
 - pystan
 - fbprophet
