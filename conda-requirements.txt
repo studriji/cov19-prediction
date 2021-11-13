@@ -23,7 +23,7 @@ defusedxml==0.7.1
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
 ephem @ file:///D:/bld/ephem_1633026610342/work
 fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
-Flask==2.0.2
+#Flask==2.0.2
 h11==0.12.0
 hijri-converter @ file:///home/conda/feedstock_root/build_artifacts/hijri-converter_1632549476122/work
 holidays @ file:///home/conda/feedstock_root/build_artifacts/holidays_1632959329709/work
@@ -35,7 +35,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.6.5
 itsdangerous==2.0.1
 jedi @ file:///D:/bld/jedi_1610146948662/work
-Jinja2==3.0.2
+#Jinja2==3.0.2
 jsonschema==4.2.1
 jupyter-client==6.1.12
 jupyter-core @ file:///D:/bld/jupyter_core_1631852859310/work
@@ -80,8 +80,8 @@ pyrsistent==0.18.0
 pystan==2.19.1.1
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
-pywin32==301
-pywinpty==1.1.5
+#pywin32==301
+#pywinpty==1.1.5
 pyzmq @ file:///D:/bld/pyzmq_1631793441125/work
 requests==2.26.0
 scipy @ file:///C:/bld/scipy_1628206591178/work
