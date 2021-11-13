@@ -1,4 +1,6 @@
 name: cov19
+channels:
+    - conda-forge
 dependencies:
   - flask
   - anyio==3.3.4
