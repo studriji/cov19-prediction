@@ -1,4 +1,4 @@
-anyio==3.3.4
+anyio
 argon2-cffi==21.1.0
 arviz 
 async-generator==1.10
