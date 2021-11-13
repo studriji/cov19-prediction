@@ -6,7 +6,7 @@ attrs==21.2.0
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
 bleach==4.1.0
-certifi==2021.10.8
+#certifi==2021.10.8
 cffi==1.15.0
 cftime @ file:///D:/bld/cftime_1632539926159/work
 charset-normalizer==2.0.7
